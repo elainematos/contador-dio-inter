@@ -18,10 +18,11 @@ button {
     border:2px solid rgb(62, 4, 88);
     background-color: rgb(151, 81, 207);
     color: rgb(62, 4, 88);
-    font-size: 16pt
+    font-size: 16pt;
     font-weight: 600;
     text-align: center;
 }
+
 #counter {
     display: flex;
 
