@@ -12,10 +12,8 @@ function decrement() {
     
 }
 function mudaCor() {
-    if(currentNumber >= 0 ) {
-        document.getElementById ('currentNumber').style.cor = 'white';        
-
-    }else {
+    if(currentNumber < 0 ) {
+       
         document.getElementById ('currentNumber').style.cor = 'red';
     }
 
